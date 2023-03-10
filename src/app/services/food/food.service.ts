@@ -32,58 +32,58 @@ export class FoodService {
     return [
      {
       id:1,
-      price: 20,
-      name:'Pizza',
-      favorite:false,
+      price: 80,
+      name:'Chicken Biryani',
+      favorite:true,
       star:4.5,
-      tags:['FastFood','Pizza'],
+      tags:['Lunch'],
       imageUrl:'/assets/food-1.jpg',
-      cookTime:'10-20',
-      origin:['italy']
+      cookTime:'10-60',
+      origin:['india']
      },
      {
       id:2,
-      price: 20,
-      name:'Burger',
+      price: 60,
+      name:'Shev Bhaji',
       favorite:false,
       star:4.5,
-      tags:['FastFood','Pizza','Lunch'],
+      tags:['Lunch'],
       imageUrl:'/assets/food-2.jpg',
-      cookTime:'10-20',
-      origin:['italy']
+      cookTime:'10-50',
+      origin:['india']
      },
      {
       id:3,
-      price: 20,
+      price: 40,
       name:'Chize Burger',
-      favorite:false,
+      favorite:true,
       star:4.5,
-      tags:['FastFood','Pizza'],
+      tags:['FastFood','Hamburger','Slowfood'],
       imageUrl:'/assets/food-3.jpg',
       cookTime:'10-20',
       origin:['italy']
      },
      {
       id:4,
-      price: 20,
-      name:'Finger Chipes',
+      price: 25,
+      name:'Fish Fry',
       favorite:false,
       star:4.5,
-      tags:['FastFood','Pizza'],
+      tags:['Fry'],
       imageUrl:'/assets/food-4.jpg',
       cookTime:'10-20',
-      origin:['italy']
+      origin:['italy','india','france']
      },
      {
       id:5,
-      price: 20,
+      price: 50,
       name:'Soup',
       favorite:false,
       star:4.5,
-      tags:['FastFood','Pizza'],
+      tags:['FastFood','Soup','Slowfood'],
       imageUrl:'/assets/food-5.jpg',
       cookTime:'10-20',
-      origin:['italy']
+      origin:['china']
      },
      {
       id:6,
@@ -98,18 +98,18 @@ export class FoodService {
      },
      {
       id:7,
-      price: 20,
-      name:'Pizza',
-      favorite:false,
+      price: 90,
+      name:'Mutton Curry',
+      favorite:true,
       star:4.5,
-      tags:['FastFood','Pizza'],
+      tags:['Lunch'],
       imageUrl:'/assets/food-7.jpg',
       cookTime:'10-20',
-      origin:['italy']
+      origin:['italy','india','south-india']
      },
      {
       id:8,
-      price: 20,
+      price: 40,
       name:'Pizza',
       favorite:false,
       star:4.5,
