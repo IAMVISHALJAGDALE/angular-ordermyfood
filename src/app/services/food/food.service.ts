@@ -37,7 +37,7 @@ export class FoodService {
       favorite:true,
       star:4.5,
       tags:['Lunch'],
-      imageUrl:'/assets/food-1.jpg',
+      imageUrl:'./assets/food-1.jpg',
       cookTime:'10-60',
       origin:['india']
      },
@@ -48,7 +48,7 @@ export class FoodService {
       favorite:false,
       star:4.5,
       tags:['Lunch'],
-      imageUrl:'/assets/food-2.jpg',
+      imageUrl:'./assets/food-2.jpg',
       cookTime:'10-50',
       origin:['india']
      },
@@ -59,7 +59,7 @@ export class FoodService {
       favorite:true,
       star:4.5,
       tags:['FastFood','Hamburger','Slowfood'],
-      imageUrl:'/assets/food-3.jpg',
+      imageUrl:'./assets/food-3.jpg',
       cookTime:'10-20',
       origin:['italy']
      },
@@ -70,7 +70,7 @@ export class FoodService {
       favorite:false,
       star:4.5,
       tags:['Fry'],
-      imageUrl:'/assets/food-4.jpg',
+      imageUrl:'./assets/food-4.jpg',
       cookTime:'10-20',
       origin:['italy','india','france']
      },
@@ -81,7 +81,7 @@ export class FoodService {
       favorite:false,
       star:4.5,
       tags:['FastFood','Soup','Slowfood'],
-      imageUrl:'/assets/food-5.jpg',
+      imageUrl:'./assets/food-5.jpg',
       cookTime:'10-20',
       origin:['china']
      },
@@ -92,7 +92,7 @@ export class FoodService {
       favorite:false,
       star:4.5,
       tags:['FastFood','Pizza'],
-      imageUrl:'/assets/food-6.jpg',
+      imageUrl:'./assets/food-6.jpg',
       cookTime:'10-20',
       origin:['italy']
      },
@@ -103,7 +103,7 @@ export class FoodService {
       favorite:true,
       star:4.5,
       tags:['Lunch'],
-      imageUrl:'/assets/food-7.jpg',
+      imageUrl:'./assets/food-7.jpg',
       cookTime:'10-20',
       origin:['italy','india','south-india']
      },
@@ -114,7 +114,7 @@ export class FoodService {
       favorite:false,
       star:4.5,
       tags:['FastFood','Pizza'],
-      imageUrl:'/assets/food-8.jpg',
+      imageUrl:'./assets/food-8.jpg',
       cookTime:'10-20',
       origin:['italy']
      }
